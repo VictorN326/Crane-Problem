@@ -4,8 +4,9 @@
 # Instructor: Himani Tawade
 
 # Group Members:
-Victor Nguyen - Victor326@csu.fullerton.edu - CWID: 885992636
-Justin Nguyen - justindnguyen03@csu.fullerton.edu - CWID: 886407279
+Name: Victor Nguyen - Email: Victor326@csu.fullerton.edu - CWID: 885992636
+
+Name: Justin Nguyen - Email: justindnguyen03@csu.fullerton.edu - CWID: 886407279
 
 **Clone This repository into your repository and implement the code, along with a document with required details mentioned at the last, a demo video, readme file and .gitignore file. Submission will be a git repo link with all the requirements updated to repo on canvas.**
 
