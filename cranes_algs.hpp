@@ -164,7 +164,7 @@ namespace cranes
     }
     cell_type *best = &(A[0][0]);
     assert(best->has_value());
-    //this algorithm has O(n)
+    //this algorithm has O(n * m) 
     for (coordinate row = 0; row < setting.rows(); ++row)
     {
       for (coordinate column = 0; column < setting.columns(); ++column)
@@ -177,7 +177,6 @@ namespace cranes
     }
 
     assert(best->has_value());
-    //  //   std::cout << "total cranes" << (**best).total_cranes() << std::endl;
 
     return **best;
   }
